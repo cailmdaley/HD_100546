@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Baruteau} et~al.(2014){Baruteau}, {Crida}, {Paardekooper}, {Masset},
+  {Guilet}, {Bitsch}, {Nelson}, {Kley}, and {Papaloizou}]{Baruteau13}
+C.~{Baruteau}, A.~{Crida}, S.-J. {Paardekooper}, F.~{Masset}, J.~{Guilet},
+  B.~{Bitsch}, R.~{Nelson}, W.~{Kley}, and J.~{Papaloizou}.
+\newblock \emph{Protostars and Planets VI}, pages 667--689, 2014.
+
+\bibitem[{Boccaletti} et~al.(2013){Boccaletti}, {Pantin}, {Lagrange},
+  {Augereau}, {Meheut}, and {Quanz}]{Boccaletti13}
+A.~{Boccaletti}, E.~{Pantin}, A.-M. {Lagrange}, J.-C. {Augereau}, H.~{Meheut},
+  and S.~P. {Quanz}.
+\newblock \emph{\aap}, 560:\penalty0 A20, 2013.
+
+\bibitem[{Currie} et~al.(2015){Currie}, {Cloutier}, {Brittain}, {Grady},
+  {Burrows}, {Muto}, {Kenyon}, and {Kuchner}]{Currie15}
+T.~{Currie}, R.~{Cloutier}, S.~{Brittain}, C.~{Grady}, A.~{Burrows}, T.~{Muto},
+  S.~J. {Kenyon}, and M.~J. {Kuchner}.
+\newblock \emph{\apjl}, 814:\penalty0 L27, 2015.
+
+\bibitem[{Grady} et~al.(2005){Grady}, {Woodgate}, {Heap}, {Bowers}, {Nuth},
+  {Herczeg}, and {Hill}]{Grady05}
+C.~A. {Grady}, B.~{Woodgate}, S.~R. {Heap}, C.~{Bowers}, J.~A. {Nuth}, III,
+  G.~J. {Herczeg}, and H.~G.~M. {Hill}.
+\newblock \emph{\apj}, 620:\penalty0 470--480, 2005.
+
+\bibitem[{Meeus} et~al.(2001){Meeus}, {Waters}, {Bouwman}, {van den Ancker},
+  {Waelkens}, and {Malfait}]{Meeus01}
+G.~{Meeus}, L.~B.~F.~M. {Waters}, J.~{Bouwman}, M.~E. {van den Ancker},
+  C.~{Waelkens}, and K.~{Malfait}.
+\newblock \emph{\aap}, 365:\penalty0 476--490, 2001.
+
+\bibitem[{Meeus} et~al.(2012){Meeus}, {Montesinos}, {Mendigut{\'{\i}}a},
+  {Kamp}, {Thi}, {Eiroa}, {Grady}, {Mathews}, {Sandell}, {Martin-Za{\"i}di},
+  {Brittain}, {Dent}, {Howard}, {M{\'e}nard}, {Pinte}, {Roberge},
+  {Vandenbussche}, and {Williams}]{Meeus12}
+G.~{Meeus}, B.~{Montesinos}, I.~{Mendigut{\'{\i}}a}, I.~{Kamp}, W.~F. {Thi},
+  C.~{Eiroa}, C.~A. {Grady}, G.~{Mathews}, G.~{Sandell}, C.~{Martin-Za{\"i}di},
+  S.~{Brittain}, W.~R.~F. {Dent}, C.~{Howard}, F.~{M{\'e}nard}, C.~{Pinte},
+  A.~{Roberge}, B.~{Vandenbussche}, and J.~P. {Williams}.
+\newblock \emph{\aap}, 544:\penalty0 A78, 2012.
+
+\bibitem[{Pinilla} et~al.(2015){Pinilla}, {Birnstiel}, and {Walsh}]{Pinilla15}
+P.~{Pinilla}, T.~{Birnstiel}, and C.~{Walsh}.
+\newblock \emph{\aap}, 580:\penalty0 A105, 2015.
+
+\bibitem[{Quanz} et~al.(2015){Quanz}, {Amara}, {Meyer}, {Girard}, {Kenworthy},
+  and {Kasper}]{Quanz15}
+S.~P. {Quanz}, A.~{Amara}, M.~R. {Meyer}, J.~H. {Girard}, M.~A. {Kenworthy},
+  and M.~{Kasper}.
+\newblock \emph{\apj}, 807:\penalty0 64, 2015.
+
+\bibitem[{van den Ancker} et~al.(1998){van den Ancker}, {de Winter}, and {Tjin
+  A Djie}]{Ancker98}
+M.~E. {van den Ancker}, D.~{de Winter}, and H.~R.~E. {Tjin A Djie}.
+\newblock \emph{\aap}, 330:\penalty0 145--154, 1998.
+
+\bibitem[{Walsh} et~al.(2014){Walsh}, {Juh{\'a}sz}, {Pinilla}, {Harsono},
+  {Mathews}, {Dent}, {Hogerheijde}, {Birnstiel}, {Meeus}, {Nomura}, {Aikawa},
+  {Millar}, and {Sandell}]{Walsh14}
+C.~{Walsh}, A.~{Juh{\'a}sz}, P.~{Pinilla}, D.~{Harsono}, G.~S. {Mathews},
+  W.~R.~F. {Dent}, M.~R. {Hogerheijde}, T.~{Birnstiel}, G.~{Meeus},
+  H.~{Nomura}, Y.~{Aikawa}, T.~J. {Millar}, and G.~{Sandell}.
+\newblock \emph{\apjl}, 791:\penalty0 L6, 2014.
+
+\end{thebibliography}

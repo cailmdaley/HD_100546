@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: HD_100546_Paper.aux
+The style file: plainnat.bst
+Database file #1: KNAC.bib
+Warning--empty title in Baruteau13
+Warning--empty title in Boccaletti13
+Warning--empty title in Currie15
+Warning--empty title in Grady05
+Warning--empty title in Meeus01
+Warning--empty title in Meeus12
+Warning--empty title in Pinilla15
+Warning--empty title in Quanz15
+Warning--empty title in Ancker98
+Warning--empty title in Walsh14
+You've used 10 entries,
+            2773 wiz_defined-function locations,
+            652 strings with 6634 characters,
+and the built_in function-call counts, 7019 in all, are:
+= -- 521
+> -- 741
+< -- 1
++ -- 247
+- -- 237
+* -- 724
+:= -- 1149
+add.period$ -- 20
+call.type$ -- 10
+change.case$ -- 99
+chr.to.int$ -- 10
+cite$ -- 30
+duplicate$ -- 219
+empty$ -- 359
+format.name$ -- 247
+if$ -- 1380
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 10
+newline$ -- 48
+num.names$ -- 40
+pop$ -- 210
+preamble$ -- 1
+purify$ -- 99
+quote$ -- 0
+skip$ -- 212
+stack$ -- 0
+substring$ -- 111
+swap$ -- 19
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 110
+warning$ -- 10
+while$ -- 35
+width$ -- 0
+write$ -- 117
+(There were 10 warnings)

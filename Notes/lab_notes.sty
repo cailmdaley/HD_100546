@@ -10,6 +10,17 @@
 %%                                                          %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+%MY additions
+\newcommand{\mypar}[1]{\paragraph{#1}\mbox{}\\}
+\usepackage{tabu}
+\usepackage{notoccite}
+\usepackage{aas_macros}
+\usepackage{caption}
+\usepackage{tablefootnote}
+
+
+
 \usepackage[latin1]{inputenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -138,6 +149,10 @@
 
 \newenvironment{tasks}%
 	{\section*{Tasks}}%
+	{\vspace{2mm}\hrule\hspace{\stretch{1}}}
+
+\newenvironment{cath}%
+	{\section*{For Catherine}}%
 	{\vspace{2mm}\hrule\hspace{\stretch{1}}}
 
 \newenvironment{maybe}%
